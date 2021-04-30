@@ -19,6 +19,7 @@ const ChartComponent = ({ data }) => {
         xAxis: 'Repos',
         xAxisNameFontSize: '16px',
         yAxisNameFontSize: '16px',
+        theme: 'candy',
       },
       data,
     },
