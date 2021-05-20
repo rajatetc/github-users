@@ -12,6 +12,10 @@ const Login = () => {
         <button className='btn' onClick={loginWithRedirect}>
           login / sign up
         </button>
+        <div className='demo'>
+          <h4> Demo Account Credentials: </h4>
+          <h5> Email: test@test.com & Password: Testing123</h5>
+        </div>
       </div>
     </Wrapper>
   )
@@ -25,11 +29,20 @@ const Wrapper = styled.section`
     max-width: 600px;
     text-align: center;
   }
+
   img {
     margin-bottom: 2rem;
   }
   h1 {
     margin-bottom: 1.5rem;
+  }
+
+  .demo {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    background-color: hsl(184, 84%, 87%);
   }
 `
 export default Login
