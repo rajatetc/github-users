@@ -5,7 +5,7 @@ Search Github Users. Get details displayed in charts.
 
 ## Tech Stack
 
-React, React Router Dom, React Icons, Styled Components, Fusion Charts, Auth0
+Create React App, React Router Dom, React Icons, Styled Components, Fusion Charts, Auth0
   
 ## Deployment
 
