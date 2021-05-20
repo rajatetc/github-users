@@ -1,7 +1,15 @@
 
 # Github Users 
 
+![Demo Video](https://media.giphy.com/media/GdwjIGHgXBPLuY1lrB/giphy.gif)
+
 Search Github Users. Get details displayed in charts.
+
+[Demo](https://rg-github-users.netlify.app/)
+
+ Demo Account Credentials
+ 
+ Email: test@test.com & Password: Testing123
 
 ## Tech Stack
 
