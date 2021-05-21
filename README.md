@@ -63,4 +63,13 @@ https://api.github.com/
 For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
 
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+  
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
   
